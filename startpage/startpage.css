@@ -59,7 +59,7 @@ div#sites {
 
 div#options {
   font-family: Robota Slab;
-  width: 25px;
+  width: 35px;
   height: 35px;
   margin-left: 50%;
   margin-top: 10px;
@@ -70,6 +70,7 @@ div#options {
   border-radius: 3px;
   font-size: 20px;
   background-color: white;
+  padding: 2px;
 }
 
 .website {
